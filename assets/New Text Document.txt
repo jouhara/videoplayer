@@ -1,0 +1,12 @@
+things that you have to add in a personal google drive and send it to me:
+1.linkedln profile link    :https://www.linkedin.com/in/jouhara-nk-474b5012b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo9GGZ0KOT2y7VTdVk9FbPA%3D%3D
+2.github profile link :https://github.com/jouhara
+3.resume  
+4.modules finished:python, django ,webdesign, sql, nodejs-expressjs, angular
+5.student video 
+6.application cover letter
+7.project development 
+if you have studied python only make a simple project using python django html css javascript mysql
+if you have studied java only make a simple project using java and springboot html css javascript mysql 
+
+8.what all projects have you made and also that you will be making if required ?
